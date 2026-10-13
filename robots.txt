@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://dmivan22.github.io/mandala-site/sitemap.xml
